@@ -1,0 +1,75 @@
+body{
+    text-align: center;
+    background-color: #283149;
+
+}
+h1{
+    font-size: 5rem;
+    color: #dbedf3;
+    font-family: "areo",cursive;
+    text-shadow: 3px 0 #da0463;
+}
+footer{
+    font-size: 4rem;
+    color: #dbedf3;
+    font-family: cursive;
+    color: #dbedf3;
+    
+    text-shadow: 3px 0 #da0463;
+}
+.set{
+    margin: 100px;
+
+    
+}
+button {
+    width: 120px;
+    height: 120px;
+    margin: 10px;
+    font-size: 36;
+    margin-bottom: 90px;
+    
+}
+.w{
+     background-image: url("image/img1.png") ; 
+     background-size: 110px 110px;
+}
+.a{
+    background-image: url("image/img2.png");
+    background-size: 110px 125px;
+}
+.s{
+    background-image: url("image/img3.png");
+    background-size: 110px 92px;
+}
+.d{
+    background-image: url("image/img4.png");
+    background-size: 110px 110px;
+}
+.j{
+    background-image: url("image/img5.png");
+    background-size: 110px 100px;
+}
+.k{
+    background-image: url("image/img6.png");
+    background-size: 110px 130px;
+}
+.l{
+    background-image: url("image/img7.png");
+    background-size: 300px ;
+}
+.pressed{
+    box-shadow: 0 3px 4px 0 #e4f1f6;
+    opacity: 0.5;
+
+}
+.drum{
+    outline: none;
+    border: 10px solid #404869;
+    font-family: 'Arvo', cursive;
+    line-height: 2;
+    font-weight: 900;
+    color: #da0463;
+    text-shadow: 3px 0 #dbedf3;
+    border-radius: 15px;
+}
